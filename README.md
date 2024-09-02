@@ -19,7 +19,6 @@ It defines a data structure by combining data (attributes) and methods (function
 
 - A Class is a user-defined data type that has data members and member functions.<br>
 - Data members are the data variables and member functions are the functions used to manipulate these variables together, these data members and member functions define the properties and behaviour of the objects in a Class.<br>
-- In the above example of class Car, the data member will be speed limit, mileage, etc, and member functions can be applying brakes, increasing speed, etc.
 
 ### objects :
 An object is created from a class. We have already created the class named MyClass, so now we can use this to create objects.<br>
@@ -177,7 +176,7 @@ int main()
 
 ## Conclusion - 
 
-We learnt about OOP in C++. 
+We learnt about OOPs in C++. 
 
 We learnt the use case of classes and objects in C++. 
 
