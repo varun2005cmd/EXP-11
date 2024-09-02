@@ -26,15 +26,13 @@ An object is created from a class. We have already created the class named MyCla
 An instance of a class. It represents a specific realization of the class, holding actual values for the attributes defined by the class.An object is created by instantiating the class. This involves calling the class as if it were a function.
 
 ### Global and Local Variables
-****Global Variables****:
+
 
 Global variables are declared outside of functions or blocks, usually at the top of a program or in a separate file. They are accessible from any part of the program and retain their value throughout the program's lifetime. While useful for shared data, their widespread accessibility can lead to unintended side effects and make debugging more challenging, particularly in large programs. They are commonly used for values needed across multiple parts of the program
 - **Declaration**: Outside of any function or block
 - **Scope**: Entire program.
 - **Usage**: Values that need to be accessed and modified by multiple parts of the program.
 - **Lifetime**: Retain their value throughout the lifetime of the program
-
-****Local Variables****:
 
 Local variables are declared within a specific block of code, such as a function or loop. They are only accessible within that block and are released from memory when the block exits. Local variables can have the same name as those in other blocks without causing conflicts, as their scope is confined to their respective block. They are typically used for temporary storage or context-specific data.
 - **Declaration**: Typically within functions or specific blocks
@@ -178,7 +176,9 @@ int main()
 
 
 ## Conclusion - 
-&#8594; We learnt about OOP in C++. <br>
-&#8594; We learnt the use case of classes and objects in C++. <br>
-*******
+
+We learnt about OOP in C++. 
+
+We learnt the use case of classes and objects in C++. 
+
 <br>
